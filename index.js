@@ -1,3 +1,3 @@
-const funcA=()=>{
-    alert("aaa")
+const funcB=()=>{
+    alert("bbb")
 }
