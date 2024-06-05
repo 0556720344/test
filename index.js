@@ -1,0 +1,3 @@
+const funcA=()=>{
+    alert("aaa")
+}
