@@ -2,5 +2,9 @@ const funcB=()=>{
     alert("bbb")
 }
 const funcC=()=>{
-    return 3
+    return 'c'
+}
+
+const funcD=()=>{
+    return 4
 }
