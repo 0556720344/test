@@ -2,5 +2,5 @@ const funcB=()=>{
     alert("bbb")
 }
 const funcC=()=>{
-    return 'c'
+    return 3
 }
