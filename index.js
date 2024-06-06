@@ -4,3 +4,7 @@ const funcB=()=>{
 const funcC=()=>{
     return 'c'
 }
+
+const funcD=()=>{
+    return 4
+}
