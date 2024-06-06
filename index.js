@@ -1,5 +1,5 @@
 const funcB=()=>{
-    alert("bbb")
+    confirm("choose b?")
 }
 const funcC=()=>{
     return 'c'
